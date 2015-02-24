@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST232: Modern Middle East and Southwest Asia"
+course_description: "A study of the history of the Middle East and Southwest Asia from the end of WWI to the present. Subjects include: European imperialism, nationalism, the creation of modern nation-states."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: Final Exam** <span id="9"></span> 
 -   **Final Exam: The Saylor Foundation's HIST232 Final Exam**
     Link: The Saylor Foundation's [HIST232 Final

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST232: Modern Middle East and Southwest Asia"
+course_description: "A study of the history of the Middle East and Southwest Asia from the end of WWI to the present. Subjects include: European imperialism, nationalism, the creation of modern nation-states."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Zionism and the Creation of Israel** <span id="3"></span> 
 *In this unit, we will examine the origins and the development of the
 State of Israel and look at the uneasy relationship between Israel and

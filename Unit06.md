@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST232: Modern Middle East and Southwest Asia"
+course_description: "A study of the history of the Middle East and Southwest Asia from the end of WWI to the present. Subjects include: European imperialism, nationalism, the creation of modern nation-states."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: The Iranian Revolution** <span id="6"></span> 
 *In this unit, we will examine the origins of the Islamic Revolution and
 then take a look at social and political life in Iran under Ayatollah

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST232: Modern Middle East and Southwest Asia"
+course_description: "A study of the history of the Middle East and Southwest Asia from the end of WWI to the present. Subjects include: European imperialism, nationalism, the creation of modern nation-states."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The Cold War in the Middle East** <span id="4"></span> 
 *In this unit, we will examine how the Cold War shaped political and
 economic development in the Middle East and Southwest Asia during the
