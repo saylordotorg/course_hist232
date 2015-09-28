@@ -107,3 +107,4 @@ Handbook.](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentH
 - [Unit 7](https://legacy.saylor.org/hist232/Unit07/)
 - [Unit 8](https://legacy.saylor.org/hist232/Unit08/)
 - [Unit 9](https://legacy.saylor.org/hist232/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST232/HIST232-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST232/HIST232-FinalExam-Answers.html)
