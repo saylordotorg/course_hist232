@@ -56,7 +56,7 @@ Upon successful completion of this unit, the student will be able to:
 **3.1.1 Zionism in Europe** <span id="3.1.1"></span> 
 -   **Reading: Wikipedia: “History of Zionism”**
     Link: Wikipedia: “[History of
-    Zionism](http://www.saylor.org/site/wp-content/uploads/2011/06/History-of-Zionism.pdf)”
+    Zionism](https://resources.saylor.org/archived/wp-content/uploads/2011/06/History-of-Zionism.pdf)”
     (PDF)  
         
      Instructions: Please read this entire webpage in order to get a
@@ -107,7 +107,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation’s “Palestine during the Interwar
     Years”**
     Link: The Saylor Foundation’s “[Palestine during the Interwar
-    Years](http://www.saylor.org/site/wp-content/uploads/2011/06/HIST232-3.2-Palestine-in-the-Postwar-Period-FINAL.pdf)”
+    Years](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST232-3.2-Palestine-in-the-Postwar-Period-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above, and read the entire

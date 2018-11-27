@@ -144,7 +144,7 @@ id="2.1.3"></span> 
 
 -   **Reading: Wikipedia: “Middle East Theatre of World War II”**
     Link: Wikipedia: “[Middle East Theatre of World War
-    II](http://www.saylor.org/site/wp-content/uploads/2011/06/Middle-East-Theatre-of-World-War-II.pdf)”
+    II](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Middle-East-Theatre-of-World-War-II.pdf)”
     (PDF)  
         
      Instructions: Please read this entire webpage in order to get a
@@ -186,7 +186,7 @@ id="2.1.3"></span> 
 id="2.3.2"></span> 
 -   **Reading: Wikipedia: “Anglo-Soviet Invasion of Iran”**
     Link: Wikipedia: “[Anglo-Soviet Invasion of
-    Iran](http://www.saylor.org/site/wp-content/uploads/2011/06/Anglo-Soviet-invasion-of-Iran.pdf)”
+    Iran](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Anglo-Soviet-invasion-of-Iran.pdf)”
     (PDF)  
         
      Instructions: Please read this entire webpage in order to get a
