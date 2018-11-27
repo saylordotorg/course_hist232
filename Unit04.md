@@ -233,7 +233,7 @@ id="4.1.3"></span> 
 **4.2.1 Challenging European Imperialism** <span id="4.2.1"></span> 
 -   **Reading: Wikipedia: “Nasserism”**
     Link: Wikipedia:
-    “[Nasserism](http://www.saylor.org/site/wp-content/uploads/2011/06/Nasserism.pdf)”
+    “[Nasserism](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Nasserism.pdf)”
     (PDF)  
         
      Instructions: Please read this entire webpage in order to get a
@@ -247,7 +247,7 @@ id="4.1.3"></span> 
 
 -   **Reading: Wikipedia: “Mohammad Mosaddegh”**
     Link: Wikipedia: “[Mohammad
-    Mosaddegh](http://www.saylor.org/site/wp-content/uploads/2011/06/Mohammad-Mosaddegh.pdf)”
+    Mosaddegh](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Mohammad-Mosaddegh.pdf)”
     (PDF)  
         
      Instructions: Please read this entire webpage in order to get a
