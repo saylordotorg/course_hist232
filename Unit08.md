@@ -69,7 +69,7 @@ id="8.1.2"></span> 
 **8.2.3 War in Afghanistan** <span id="8.2.3"></span> 
 -   **Reading: Wikipedia: “War in Afghanistan (2001-Present)”**
     Link: Wikipedia: “[War in Afghanistan
-    (2001-Present)](https://resources.saylor.org/archived/wp-content/uploads/2011/06/War-in-Afghanistan-2001-Present.pdf)”
+    (2001-Present)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/War-in-Afghanistan-2001-Present.pdf)”
     (PDF)  
         
      Instructions: Please read this entire webpage in order to get a
@@ -85,7 +85,7 @@ id="8.1.2"></span> 
 **8.2.4 War in Iraq** <span id="8.2.4"></span> 
 -   **Reading: The Saylor Foundation’s “Invasion of Iraq”**
     Link: The Saylor Foundation’s “[Invasion of
-    Iraq](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST232-Invasion-of-Iraq.pdf)”
+    Iraq](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/HIST232-Invasion-of-Iraq.pdf)”
     (PDF)  
         
      Instructions: Please read the linked material.
