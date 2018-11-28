@@ -246,7 +246,7 @@ id="7.4.3"></span> 
 **7.5 The First Gulf War** <span id="7.5"></span> 
 -   **Reading: Wikipedia: “Gulf War”**
     Link: Wikipedia: “[Gulf
-    War](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Gulf-War.pdf)”
+    War](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Gulf-War.pdf)”
     (PDF)  
         
      Instructions: Please read this entire webpage in order to get a
@@ -287,7 +287,7 @@ id="7.6"></span> 
 -   **Reading: The Saylor Foundation’s “Emergence of Militant Islamic
     Fundamentalism”**
     Link: The Saylor Foundation’s “[Emergence of Militant Islamic
-    Fundamentalism](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST232-7.6-Emergence-of-Militant-Islamic-Fundamentalism-FINAL.pdf)”
+    Fundamentalism](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/HIST232-7.6-Emergence-of-Militant-Islamic-Fundamentalism-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above, and read the entire
@@ -296,7 +296,7 @@ id="7.6"></span> 
 **7.6.1 Religion and Politics** <span id="7.6.1"></span> 
 -   **Reading: The Saylor Foundation’s “Religion and Politics”**
     Link: The Saylor Foundation’s “[Religion and
-    Politics](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST232-7.6.1-Religion-and-Politics-FINAL.pdf)”
+    Politics](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/HIST232-7.6.1-Religion-and-Politics-FINAL.pdf)”
     (PDF)  
       
      Instructions: Please click on the link above, and read the entire
@@ -307,7 +307,7 @@ id="7.6.2"></span> 
 -   **Reading: The Saylor Foundation’s “Political, Religious, and Social
     Objectives”**
     Link: The Saylor Foundation’s “[Political, Religious, and Social
-    Objectives](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST232-7.6.2-Political-and-Social-Objectives-FINAL.pdf)”
+    Objectives](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/HIST232-7.6.2-Political-and-Social-Objectives-FINAL.pdf)”
     (PDF)  
       
      Instructions: Please click on the link above, and read the entire

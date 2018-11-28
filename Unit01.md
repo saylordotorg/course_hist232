@@ -63,7 +63,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikibooks’ European History: “World War I”**
     Link: Wikibooks’ *European History:* “[World War
-    I](https://resources.saylor.org/archived/wp-content/uploads/2011/06/World-War-I.pdf)”
+    I](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/World-War-I.pdf)”
     (PDF)  
         
      Instructions: Please read the entire webpage to better understand
@@ -143,7 +143,7 @@ Upon successful completion of this unit, the student will be able to:
 **1.1 The Mandate System** <span id="1.1"></span> 
 -   **Reading: Wikipedia: “League of Nations Mandate”**
     Link: Wikipedia: “[League of Nations
-    Mandate](https://resources.saylor.org/archived/wp-content/uploads/2011/06/League-of-Nations-Mandate.pdf)”
+    Mandate](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/League-of-Nations-Mandate.pdf)”
     (PDF)  
         
      Instructions: Please read this entire webpage in order to get a
@@ -162,7 +162,7 @@ Upon successful completion of this unit, the student will be able to:
     Empire at the End of World War I”**
     Link: The Saylor Foundation’s “[Formal Breakup of the Ottoman Empire
     at the End of World War
-    I](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST232-1.1.1-Formal-Breakup-of-the-Ottoman-Empire-FINAL.pdf)”
+    I](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/HIST232-1.1.1-Formal-Breakup-of-the-Ottoman-Empire-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above, and read the entire
@@ -205,12 +205,12 @@ Territories** <span id="1.1.3"></span> 
 **1.2 Lebanon and Syria** <span id="1.2"></span> 
 -   **Reading: Wikipedia: “French Mandate of Syria and Lebanon”**
     Link: Wikipedia: “[French Mandate of Syria and
-    Lebanon](https://resources.saylor.org/archived/wp-content/uploads/2011/06/French-Mandate-of-Syria-and-Lebanon.pdf)”
+    Lebanon](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/French-Mandate-of-Syria-and-Lebanon.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/French-Mandate-of-Syria-and-Lebanon-Thomas-Collelo.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/French-Mandate-of-Syria-and-Lebanon-Thomas-Collelo.epub)  
         
      Instructions: Please read this entire webpage in order to get a
     sense of France’s administration of its mandate in Syria and
@@ -228,9 +228,9 @@ Territories** <span id="1.1.3"></span> 
     Country Study: “World War I” and “The French Mandate”**
     Links: US Library of Congress: Thomas Collelo, ed.’s *Syria: A
     Country Study:* “[World War
-    I](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST232-1.2-WORLD-WAR-I.pdf)”
+    I](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST232-1.2-WORLD-WAR-I.pdf)”
     (PDF) and “[The French
-    Mandate](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST232-1.2-THE-FRENCH-MANDATE.pdf)”
+    Mandate](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST232-1.2-THE-FRENCH-MANDATE.pdf)”
     (PDF)  
         
      Instructions: Please read these entire webpages to better
@@ -243,7 +243,7 @@ Territories** <span id="1.1.3"></span> 
 **1.3 Iraq** <span id="1.3"></span> 
 -   **Reading: Wikipedia: “British Mandate of Mesopotamia**
     Link: Wikipedia: “[British Mandate of
-    Mesopotamia](https://resources.saylor.org/archived/wp-content/uploads/2011/06/British-Mandate-of-Mesopotamia.pdf)”
+    Mesopotamia](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/British-Mandate-of-Mesopotamia.pdf)”
     (PDF)  
         
      Instructions: Please read this entire webpage in order to get a
@@ -343,13 +343,13 @@ id="1.5.1"></span> 
     Constitutionalism and Party Politics”**
     Links: US Library of Congress: Helen Chapin Metz, ed.’s *Egypt: A
     Country Study*: “[From Occupation to Nominal
-    Independence:1882-1923](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST232-1.5.1-FROM-OCCUPATION-TO-NOMINAL-INDEPENDENCE.pdf)”
+    Independence:1882-1923](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST232-1.5.1-FROM-OCCUPATION-TO-NOMINAL-INDEPENDENCE.pdf)”
     (PDF), “[Economy and Society under
-    Occupation](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST232-1.5.1-Economy-and-Society-under-Occupation.pdf)”
+    Occupation](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST232-1.5.1-Economy-and-Society-under-Occupation.pdf)”
     (PDF), “[Egypt under the Protectorate and the 1919
-    Revolution](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST232-1.5.1-Egypt-under-the-Protectorate-and-the-1919-Revolution.pdf)”
+    Revolution](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST232-1.5.1-Egypt-under-the-Protectorate-and-the-1919-Revolution.pdf)”
     (PDF) and “[The Era of Liberal Constitutionalism and Party
-    Politics](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST232-1.5.1-THE-ERA-OF-LIBERAL-CONSTITUTIONALISM-AND-PARTY-POLITICS.pdf)”
+    Politics](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST232-1.5.1-THE-ERA-OF-LIBERAL-CONSTITUTIONALISM-AND-PARTY-POLITICS.pdf)”
     (PDF)  
         
      Instructions: Please read these webpages in their entirety to
